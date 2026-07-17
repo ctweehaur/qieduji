@@ -1137,7 +1137,7 @@ const lessonData = [
     ["险些", "xiǎn xiē", "nearly", "hampir"],
     ["撞到", "zhuàng dào", "bumped into", "terlanggar"],
     ["树干上去", "shù gàn shàng qù", "tree trunk", "batang pokok"],
-    ["。", "", "", ""]
+    ["。", "", "", ""],
 
     ["\n", "", "", ""], // 👈 第19段
 
