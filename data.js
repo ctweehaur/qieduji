@@ -597,7 +597,7 @@ const lessonData = [
     ["这种", "zhè zhǒng", "this kind of", "jenis ini"],
     ["窃读的", "qiè dú de", "secret reading", "membaca secara curi"],
     ["滋味", "zī wèi", "feeling", "perasaan"],
-    ["！", "", "", ""]
+    ["！", "", "", ""],
 
     ["\n", "", "", ""], // 👈 第10段
 
